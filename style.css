@@ -1,0 +1,22 @@
+body{
+    font-family: 'lacto',sanis-sarif;
+    backgroundcolor-color:rgb(238, 238, 148);
+}
+h1{
+    color:blue;
+    background-color: brown;
+}
+p{
+    color:forestgreen;
+    font-size: 33px;
+    font-weight: 100;
+}
+img{
+    height=2px;
+    width=2px;
+}
+.abc{
+    font-size: 10px;
+    color:blueviolet;
+
+}
